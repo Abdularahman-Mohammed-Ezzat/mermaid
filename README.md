@@ -1,1 +1,3 @@
-# mermaid
+```mermaid
+A-->B;
+```
